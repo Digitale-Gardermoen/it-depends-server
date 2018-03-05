@@ -1,7 +1,7 @@
 {
-  "name": "It_depends_server",
+  "name": "it_depends_server",
   "license": "MIT",
-  "description": "Backend server for It_depends.",
+  "description": "Backend server for IT Depends.",
   "version": "0.1.0",
   "homepage": "",
   "main": "src",
@@ -21,6 +21,10 @@
   "engines": {
     "node": "^8.0.0",
     "npm": ">= 3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Digitale-Gardermoen/it-depends-server"
   },
   "scripts": {
     "test": "npm run eslint && npm run mocha",
